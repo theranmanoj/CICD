@@ -1,5 +1,5 @@
 {
-  "name": "ci-cd-demo-app",
+  "name": "CICD",
   "version": "1.0.0",
   "description": "A simple demo Node.js app for CI/CD pipeline with Jenkins",
   "main": "app.js",
